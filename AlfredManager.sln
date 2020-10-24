@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlfredManager", "AlfredManager\AlfredManager.csproj", "{B810102A-F7AF-45F6-A527-51B464AF569D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B810102A-F7AF-45F6-A527-51B464AF569D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B810102A-F7AF-45F6-A527-51B464AF569D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B810102A-F7AF-45F6-A527-51B464AF569D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B810102A-F7AF-45F6-A527-51B464AF569D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

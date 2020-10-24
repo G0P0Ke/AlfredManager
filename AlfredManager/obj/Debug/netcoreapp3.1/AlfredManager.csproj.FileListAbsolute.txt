@@ -1,0 +1,12 @@
+/Users/antonandreev/RiderProjects/AlfredManager/AlfredManager/bin/Debug/netcoreapp3.1/AlfredManager.deps.json
+/Users/antonandreev/RiderProjects/AlfredManager/AlfredManager/bin/Debug/netcoreapp3.1/AlfredManager.runtimeconfig.json
+/Users/antonandreev/RiderProjects/AlfredManager/AlfredManager/bin/Debug/netcoreapp3.1/AlfredManager.runtimeconfig.dev.json
+/Users/antonandreev/RiderProjects/AlfredManager/AlfredManager/bin/Debug/netcoreapp3.1/AlfredManager.dll
+/Users/antonandreev/RiderProjects/AlfredManager/AlfredManager/bin/Debug/netcoreapp3.1/AlfredManager.pdb
+/Users/antonandreev/RiderProjects/AlfredManager/AlfredManager/obj/Debug/netcoreapp3.1/AlfredManager.csprojAssemblyReference.cache
+/Users/antonandreev/RiderProjects/AlfredManager/AlfredManager/obj/Debug/netcoreapp3.1/AlfredManager.AssemblyInfoInputs.cache
+/Users/antonandreev/RiderProjects/AlfredManager/AlfredManager/obj/Debug/netcoreapp3.1/AlfredManager.AssemblyInfo.cs
+/Users/antonandreev/RiderProjects/AlfredManager/AlfredManager/obj/Debug/netcoreapp3.1/AlfredManager.csproj.CoreCompileInputs.cache
+/Users/antonandreev/RiderProjects/AlfredManager/AlfredManager/obj/Debug/netcoreapp3.1/AlfredManager.dll
+/Users/antonandreev/RiderProjects/AlfredManager/AlfredManager/obj/Debug/netcoreapp3.1/AlfredManager.pdb
+/Users/antonandreev/RiderProjects/AlfredManager/AlfredManager/obj/Debug/netcoreapp3.1/AlfredManager.genruntimeconfig.cache
